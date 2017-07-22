@@ -6,7 +6,7 @@ We are trying to automate the windows games first racing games controls using at
 <img src='https://github.com/vsltech/braingamesimulator/blob/master/cover1.jpg'>
 # DirectX works with Scancodes for Direct Input
 <br>
-Dependencies: PyWin32, Mindwave, Python2.7
+Dependencies: PyWin32, Mindwave, Python2.7<br>
 *I used Python2.7 64-bit on Windows10 OS
 <li>PyWin32: Download & Install from below links<br>
 Using exe: https://sourceforge.net/projects/pywin32/files/pywin32/Build%20221/pywin32-221.win-amd64-py3.6.exe/download<br>
