@@ -18,7 +18,7 @@ Using exe: https://sourceforge.net/projects/pywin32/files/pywin32/Build%20221/py
 Using pip: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pywin32
 </li>
 <br>
-Run this program in background<br>
+Run this program in background, once Headset led turns green you will start seeing attention, meditation & eye blink values. Don't shake headset as raw values flickers with small change on contact from frontal lobe/forehead.<br>
 EDITS in the code: braingamesimulator.py<br>
 *headset = mindwave.Headset(<ENTER_YOUR_COM_PORT_IN_DEVICE_MANAGER>, 'CC0E')<br>
 Calibration: Edit your threshold value with your attention/meditation values
