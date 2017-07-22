@@ -3,6 +3,7 @@ Brain Game Simulator | NeuroSky Mindwave | Control Windows Games Using Brain Sig
 <img src='https://github.com/vsltech/braingamesimulator/blob/master/eegamesimulator.jpg'><br>
 We are trying to automate the windows games first racing games controls using attention & meditation level values that we have captured from the frontal lobe of brain using NeuroSky Mindwave Headset.<br>
 # Python Direct X game controller server
+<img src='https://github.com/vsltech/braingamesimulator/blob/master/cover1.jpg'>
 # DirectX works with Scancodes for Direct Input
 <br>
 Dependencies: PyWin32, Mindwave, Python2.7
@@ -14,7 +15,7 @@ Using pip: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pywin32
 <br>
 Run this program in background<br>
 EDITS in the code: braingamesimulator.py<br>
-*headset = mindwave.Headset('<CHECK_YOUR_COM_PORT_IN_DEVICE_MANAGER>', 'CC0E')<br>
+*headset = mindwave.Headset(<ENTER_YOUR_COM_PORT_IN_DEVICE_MANAGER>, 'CC0E')<br>
 Calibration: Edit your threshold value with your attention/meditation values
 <br>
 For issues read this: http://www.vslcreations.com/2017/05/neurosky-mindwave-issues-beginners-guide.html
