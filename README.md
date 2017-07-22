@@ -1,5 +1,6 @@
 # braingamesimulator
-Brain Game Simulator | NeuroSky Mindwave | Control Windows Games Using Brain Signals
+Brain Game Simulator | NeuroSky Mindwave | Control Windows Games Using Brain Signals<br>
+Demo: https://youtu.be/iC-GXePw5X4
 <img src='https://github.com/vsltech/braingamesimulator/blob/master/eegamesimulator.jpg'><br>
 We are trying to automate the windows games first racing games controls using attention & meditation level values that we have captured from the frontal lobe of brain using NeuroSky Mindwave Headset.<br>
 # Python Direct X game controller server
